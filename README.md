@@ -1,4 +1,4 @@
-# 🧠 CoSMOS: Controlling Semantics and Object Counts via Mean-Oriented Steering
+# 🌌 CoSMOS: Controlling Semantics and Object Counts via Mean-Oriented Steering
 
 This repository contains the official implementation of **CoSMOS**, a training-free inference-time steering method for improving **object count fidelity** in text-to-image (T2I) diffusion models such as Stable Diffusion. CoSMOS dynamically injects steering vectors into cross-attention layers during the early denoising steps of the generation process.
 
